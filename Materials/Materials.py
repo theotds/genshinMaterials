@@ -1,38 +1,27 @@
 class Materials:
-    def __init__(self, gems, boss_drop, local_specialty, common_enemy, books=None, boss_material=None):
+    def __init__(self, level_materials, talent_materials):
         """
-        Initialize the materials needed for ascension and talents.
+        Combines level materials and talent materials for a character.
 
-        :param gems: Gemstone needed for character ascension (elemental stones).
-        :param boss_drop: Material dropped by a boss for ascension.
-        :param local_specialty: Region-specific collectible used for ascension.
-        :param common_enemy: Material dropped by common enemies used for ascension/talents.
-        :param books: An instance of Books class for talent level-up (optional).
-        :param boss_material: An instance of TalentMaterial class for talent level-up (optional).
+        :param level_materials: An instance of LevelMaterials class.
+        :param talent_materials: An instance of TalentMaterials class.
         """
-        self.gems = gems
-        self.boss_drop = boss_drop
-        self.local_specialty = local_specialty
-        self.common_enemy_material = common_enemy
-        self.books = books
-        self.boss_material = boss_material
+        self.level_materials = level_materials
+        self.talent_materials = talent_materials
 
     def display_materials(self):
-        """Prints all the materials needed for ascension and talents."""
-        print(f"Gems: {self.gems}")
-        print(f"Boss Drop: {self.boss_drop}")
-        print(f"Local Specialty: {self.local_specialty}")
+        """Displays all materials needed for both ascension and talents."""
+        print("Ascension Materials:")
+        self.level_materials.display()
+        print("Talent Materials:")
+        self.talent_materials.display()
 
-        # Display books and boss material (if available)
+    def total_materials_needed(self, ascension_phases, talent_levels):
+        """Calculates total materials needed for both ascension and talents."""
+        print(f"Total materials needed for ascension phases: {ascension_phases}")
+        total_ascension = self.level_materials.total_needed(ascension_phases)
+        print(total_ascension)
 
-        if self.books:
-            print(f"Books:")
-            self.books.display()
-
-        if self.common_enemy_material:
-            print(f"Common Enemy Material:")
-            self.common_enemy_material.display()
-
-        if self.boss_material:
-            print(f"Boss Enemy Material:")
-            self.boss_material.display()
+        print(f"\nTotal materials needed for talent levels: {talent_levels}")
+        total_talent = self.talent_materials.total_needed(talent_levels)
+        print(total_talent)
