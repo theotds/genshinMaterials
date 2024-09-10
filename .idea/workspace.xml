@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="737dfed4-f2f6-4b8c-b0aa-5c83264a5a87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/EnhancementMaterials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/Gems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/LevelMaterials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/TalentBooks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Materials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materials/Book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materials/Materials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Materials/Materials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materials/TalentMaterial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Materials/TalentMaterial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "charactersMaterials",
     "node.js.detected.package.eslint": "true",
@@ -45,6 +52,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Theo\PycharmProjects\genshinMaterials\Materials" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="genshinMaterials" />
@@ -92,5 +104,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/genshinMaterials$main.coverage" NAME="main Coverage Results" MODIFIED="1725961969892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
