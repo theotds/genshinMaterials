@@ -1,4 +1,4 @@
-class Materials:
+class Character:
     def __init__(self, name, element, weapon, materials):
         """
         Initialize a Character with its basic details and materials.
