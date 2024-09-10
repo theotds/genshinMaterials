@@ -6,20 +6,6 @@ from Materials.TalentBooks import TalentBooks
 from Materials.TalentMaterial import TalentMaterials
 from Character import Character
 
-# Define enhancement materials and talent books for each star quality
-enhancement_materials = {
-    "2 Stars": EnhancementMaterials("2 Stars", 6),
-    "3 Stars": EnhancementMaterials("3 Stars", 12),
-    "4 Stars": EnhancementMaterials("4 Stars", 16),
-    "5 Stars": EnhancementMaterials("5 Stars", 1)  # Example, actual counts may vary
-}
-
-talent_books = {
-    "2 Stars": TalentBooks("2 Stars", 9),
-    "3 Stars": TalentBooks("3 Stars", 12),
-    "4 Stars": TalentBooks("4 Stars", 16)  # Example, actual counts may vary
-}
-
 # Define talent materials per level
 quantity_per_level = {
     2: {
@@ -135,14 +121,7 @@ quantity_per_phase = {
 
 # Create LevelMaterials and TalentMaterials instances
 level_materials = LevelMaterials(quantity_per_phase)
-talent_materials = TalentMaterials(
-    mora={"2 Stars": 12500, "3 Stars": 17500, "4 Stars": 25000, "5 Stars": 30000},  # Example values
-    enhancement_materials=enhancement_materials,
-    talent_books=talent_books,
-    weekly_boss_drops={"5 Stars": 1},  # Example values
-    crown_of_insight={"5 Stars": 1},  # Example values
-    quantity_per_level=quantity_per_level
-)
+talent_materials = TalentMaterials(quantity_per_level)
 
 # Create a Character instance
 materials = Materials(level_materials, talent_materials)

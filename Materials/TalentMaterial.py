@@ -1,20 +1,10 @@
 class TalentMaterials:
-    def __init__(self, mora, enhancement_materials, talent_books, weekly_boss_drops, crown_of_insight, quantity_per_level):
+    def __init__(self, quantity_per_level):
         """
         Materials required for talent level-ups (levels 1-10).
 
-        :param mora: Dictionary of mora cost for each level.
-        :param enhancement_materials: Dictionary of enhancement materials by star quality.
-        :param talent_books: Dictionary of talent books by star quality.
-        :param weekly_boss_drops: Dictionary of weekly boss drops by star quality.
-        :param crown_of_insight: Dictionary of crown of insight details by star quality.
         :param quantity_per_level: Dictionary of required materials per talent level.
         """
-        self.mora = mora
-        self.enhancement_materials = enhancement_materials
-        self.talent_books = talent_books
-        self.weekly_boss_drops = weekly_boss_drops
-        self.crown_of_insight = crown_of_insight
         self.quantity_per_level = quantity_per_level
 
     def display(self):
@@ -43,12 +33,6 @@ class TalentMaterials:
             'crown_of_insight': 0
         }
 
-        # Initialize dictionaries for enhancement materials and talent books by quality
-        for quality in self.enhancement_materials.keys():
-            total['enhancement_materials'][quality] = 0
-        for quality in self.talent_books.keys():
-            total['talent_books'][quality] = 0
-
         for level in levels:
             if level in self.quantity_per_level:
                 level_materials = self.quantity_per_level[level]
@@ -58,12 +42,14 @@ class TalentMaterials:
                 for quality, count in level_materials.get('enhancement_materials', {}).items():
                     if quality in total['enhancement_materials']:
                         total['enhancement_materials'][quality] += count
-
+                    else:
+                        total['enhancement_materials'][quality] = count
                 # Aggregate talent books by quality
                 for quality, count in level_materials.get('talent_books', {}).items():
                     if quality in total['talent_books']:
                         total['talent_books'][quality] += count
-
+                    else:
+                        total['talent_books'][quality] = count
                 total['weekly_boss_drops'] += level_materials.get('weekly_boss_drops', 0)
                 total['crown_of_insight'] += level_materials.get('crown_of_insight', 0)
 
