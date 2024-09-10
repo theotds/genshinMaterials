@@ -1,11 +1,76 @@
 class TalentMaterials:
-    def __init__(self, quantity_per_level):
+    def __init__(self):
         """
         Materials required for talent level-ups (levels 1-10).
 
         :param quantity_per_level: Dictionary of required materials per talent level.
         """
-        self.quantity_per_level = quantity_per_level
+        # Define talent materials per level
+        self.quantity_per_level = {
+            2: {
+                'mora': 12500,
+                'enhancement_materials': {'2 Stars': 6},
+                'talent_books': {'2 Stars': 3},
+                'weekly_boss_drops': 0,
+                'crown_of_insight': 0
+            },
+            3: {
+                'mora': 17500,
+                'enhancement_materials': {'3 Stars': 3},
+                'talent_books': {'3 Stars': 2},
+                'weekly_boss_drops': 0,
+                'crown_of_insight': 0
+            },
+            4: {
+                'mora': 25000,
+                'enhancement_materials': {'3 Stars': 4},
+                'talent_books': {'3 Stars': 4},
+                'weekly_boss_drops': 0,
+                'crown_of_insight': 0
+            },
+            5: {
+                'mora': 30000,
+                'enhancement_materials': {'3 Stars': 6},
+                'talent_books': {'3 Stars': 6},
+                'weekly_boss_drops': 0,
+                'crown_of_insight': 0
+            },
+            6: {
+                'mora': 37500,
+                'enhancement_materials': {'3 Stars': 9},
+                'talent_books': {'3 Stars': 9},
+                'weekly_boss_drops': 0,
+                'crown_of_insight': 0
+            },
+            7: {
+                'mora': 120000,
+                'enhancement_materials': {'4 Stars': 4},
+                'talent_books': {'4 Stars': 4},
+                'weekly_boss_drops': 1,
+                'crown_of_insight': 0
+            },
+            8: {
+                'mora': 260000,
+                'enhancement_materials': {'4 Stars': 6},
+                'talent_books': {'4 Stars': 6},
+                'weekly_boss_drops': 1,
+                'crown_of_insight': 0
+            },
+            9: {
+                'mora': 450000,
+                'enhancement_materials': {'4 Stars': 9},
+                'talent_books': {'4 Stars': 12},
+                'weekly_boss_drops': 2,
+                'crown_of_insight': 0
+            },
+            10: {
+                'mora': 700000,
+                'enhancement_materials': {'4 Stars': 12},
+                'talent_books': {'4 Stars': 16},
+                'weekly_boss_drops': 2,
+                'crown_of_insight': 1
+            }
+        }
 
     def display(self):
         """Displays the required talent materials per level."""
