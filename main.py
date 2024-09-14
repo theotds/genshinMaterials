@@ -27,7 +27,8 @@ def printAllCharacters():
 
 def print_all_commands():
     print(
-        "0 - exit\n1 - all characters\n"
+        "0 - exit\n"
+        "1 - all characters\n"
         "2 - check specific character materials\n"
         "3 - check how many materials is needed for sepcific character\n")
 
