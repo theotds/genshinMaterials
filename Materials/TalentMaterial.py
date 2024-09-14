@@ -44,7 +44,7 @@ class TalentMaterials:
 
     def display_total(self, total_materials):
         """Displays the total materials needed for talent upgrades."""
-        print(f"Talent Materials (using {self.enhancement_materials_name}, {self.talent_books_name}, and {self.weekly_boss_material_name}):")
+        print(f"Talent Materials (using Enhancement Materials = {self.enhancement_materials_name}, Talent Books = {self.talent_books_name}, and Weekly Boss = {self.weekly_boss_material_name}):")
         print(f"Mora: {total_materials['mora']}")
         print(f"Weekly Boss Drops: {total_materials['weekly_boss_drops']}")
         print(f"Crown of Insight: {total_materials['crown_of_insight']}")

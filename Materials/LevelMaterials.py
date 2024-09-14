@@ -64,7 +64,7 @@ class LevelMaterials:
 
     def display(self):
         """Displays the required materials per ascension phase."""
-        print(f"Ascension Materials (using {self.gem_name}, {self.common_material_name} Gem, {self.boss_material_name}, {self.local_specialties_name}):")
+        print(f"Ascension Materials (using Gem type = {self.gem_name}, Common Material = {self.common_material_name}, Boss Material = {self.boss_material_name}, Local specialities = {self.local_specialties_name}):")
         for phase, materials in self.quantity_per_phase.items():
             print(f"Ascension Phase {phase}:")
             print(f"  Gems ({self.gem_name}):")
@@ -79,7 +79,7 @@ class LevelMaterials:
 
     def display_total(self, total_materials):
         """Displays the total materials needed for ascension."""
-        print(f"Ascension Materials (using {self.gem_name}, {self.common_material_name}, {self.boss_material_name}, {self.local_specialties_name}):")
+        print(f"Ascension Materials (using Gem type = {self.gem_name}, Common Material = {self.common_material_name}, Boss Material = {self.boss_material_name}, Local specialities = {self.local_specialties_name}):")
         print(f"Mora: {total_materials['mora_cost']}")
         print(f"Local Specialties: {total_materials['local_specialties']}")
         print(f"Boss Material: {total_materials['boss_material']}")
