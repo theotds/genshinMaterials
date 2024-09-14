@@ -2,7 +2,7 @@ from Materials.Gems import Gems
 
 
 class LevelMaterials:
-    def __init__(self):
+    def __init__(self, gemName, local_specialties_name, boss_material_name, common_material_name ):
         """
         Materials required for character ascension (phases 1-6).
 
@@ -11,42 +11,42 @@ class LevelMaterials:
         # Define level materials for ascension phases
         self.quantity_per_phase = {
             1: {
-                'gems': Gems("Pyro", {"2 Stars": 1}),
+                'gems': Gems(gemName, {"2 Stars": 1}),
                 'local_specialties': 3,
                 'common_materials': {"2 Stars": 3},
                 'boss_material': 0,
                 'mora_cost': 20000
             },
             2: {
-                'gems': Gems("Pyro", {"3 Stars": 3}),
+                'gems': Gems(gemName, {"3 Stars": 3}),
                 'local_specialties': 10,
                 'common_materials': {"2 Stars": 15},
                 'boss_material': 2,
                 'mora_cost': 40000
             },
             3: {
-                'gems': Gems("Pyro", {"3 Stars": 6}),
+                'gems': Gems(gemName, {"3 Stars": 6}),
                 'local_specialties': 20,
                 'common_materials': {"3 Stars": 12},
                 'boss_material': 4,
                 'mora_cost': 60000
             },
             4: {
-                'gems': Gems("Pyro", {"4 Stars": 3}),
+                'gems': Gems(gemName, {"4 Stars": 3}),
                 'local_specialties': 30,
                 'common_materials': {"3 Stars": 18},
                 'boss_material': 8,
                 'mora_cost': 80000
             },
             5: {
-                'gems': Gems("Pyro", {"4 Stars": 6}),
+                'gems': Gems(gemName, {"4 Stars": 6}),
                 'local_specialties': 45,
                 'common_materials': {"4 Stars": 12},
                 'boss_material': 12,
                 'mora_cost': 100000
             },
             6: {
-                'gems': Gems("Pyro", {"5 Stars": 6}),
+                'gems': Gems(gemName, {"5 Stars": 6}),
                 'local_specialties': 60,
                 'common_materials': {"4 Stars": 24},
                 'boss_material': 20,

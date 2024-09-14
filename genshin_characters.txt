@@ -1,0 +1,87 @@
+Albedo: Geo, Sword, Geo, Divining Scroll, Cecilia, Basalt Pillar, Divining Scroll, Teachings of Ballad, Tusk of Monoceros Caeli
+Alhaitham: Dendro, Sword, Dendro, Faded Red Satin, Sand Grease Pupa, Pseudo-Stamens, Faded Red Satin, Teachings of Ingenuity, Mirror of Mushin
+Aloy: Cryo, Bow, Cryo, Spectral Husk, Crystal Marrow, Crystalline Bloom, Spectral Husk, Teachings of Freedom, Molten Moment
+Amber: Pyro, Bow, Pyro, Arrowhead, Small Lamp Grass, Everflame Seed, Arrowhead, Teachings of Freedom, Dvalin's Sigh
+Arataki Itto: Geo, Claymore, Geo, Slime Condensate, Onikabuto, Riftborn Regalia, Slime Condensate, Teachings of Elegance, Ashen Heart
+Arlechino: Pyro, Polearm, Pyro, Recruit's Insignia, Rainbow Rose, Fragment of a Golden Melody, Recruit's Insignia, Teachings of Order, Fading Candle
+Baizhu: Dendro, Catalyst, Dendro, Fungal Spores, Violetgrass, Evergloom Ring, Fungal Spores, Teachings of Gold, Worldspan Fern
+Barbara: Hydro, Catalyst, Hydro, Divining Scroll, Philanemo Mushroom, Cleansing Heart, Divining Scroll, Teachings of Freedom, Ring of Boreas
+Beidou: Electro, Claymore, Electro, Treasure Hoarder Insignia, Noctilucous Jade, Lightning Prism, Treasure Hoarder Insignia, Teachings of Gold, Dvalin's Claw
+Bennett: Pyro, Sword, Pyro, Treasure Hoarder Insignia, Windwheel Aster, Everflame Seed, Treasure Hoarder Insignia, Teachings of Resistance, Dvalin's Plume
+Candace: Hydro, Polearm, Hydro, Faded Red Satin, Henna Berry, Light Guiding Tetrahedron, Faded Red Satin, Teachings of Admonition, Tears of the Calamitous God
+Charlotte: Cryo, Catalyst, Cryo, Meshing Gear, Beryl Conch, Tourbillon Device, Meshing Gear, Teachings of Justice, Lightless Silk String
+Chevreuse: Pyro, Polearm, Pyro, Meshing Gear, Lumidouce Bell, Fontemer Unihorn, Meshing Gear, Teachings of Order, Lightless Eye of the Maelstrom
+Chiori: Geo, Sword, Geo, Spectral Husk, Dendrobium, Coppelia, Spectral Husk, Teachings of Light, Lightless Silk String
+Chongyun: Cryo, Claymore, Cryo, Damaged Mask, Cor Lapis, Hoarfrost Core, Damaged Mask, Teachings of Diligence, Tail of Boreas
+Childe: Hydro, Bow, Hydro, Recruit's Insignia, Starconch, Cleansing Heart, Recruit's Insignia, Teachings of Freedom, Shard of a Foul Legacy
+Clorinde: Electro, Sword, Electro, Transoceanic Pearl, Lumitoile, Fontemer Unihorn, Transoceanic Pearl, Teachings of Justice, Everamber
+Collei: Dendro, Bow, Dendro, Arrowhead, Rukkhashava Mushrooms, Majestic Hooked Beak, Arrowhead, Teachings of Praxis, Tears of the Calamitous God
+Cyno: Electro, Polearm, Electro, Divining Scroll, Scarab, Thunderclap Fruitcore, Divining Scroll, Teachings of Admonition, Mudra of the Malefic General
+Dehya: Pyro, Claymore, Pyro, Faded Red Satin, Sand Grease Pupa, Light Guiding Tetrahedron, Faded Red Satin, Teachings of Praxis, Puppet Strings
+Diluc: Pyro, Claymore, Pyro, Recruit's Insignia, Small Lamp Grass, Everflame Seed, Recruit's Insignia, Teachings of Resistance, Dvalin's Plume
+Diona: Cryo, Bow, Cryo, Arrowhead, Calla Lily, Hoarfrost Core, Arrowhead, Teachings of Freedom, Shard of a Foul Legacy
+Dori: Electro, Claymore, Electro, Faded Red Satin, Kalpalata Lotus, Thunderclap Fruitcore, Faded Red Satin, Teachings of Ingenuity, Bloodjade Branch
+Emilie: Dendro, Polearm, Dendro, Meshing Gear, Meshing Gear, Lakelight Lily, Fragment of a Gold Melody, Meshing Gear, Teachings of Order, Silken Feather
+Eula: Cryo, Claymore, Cryo, Damaged Mask, Dandelion Seed, Crystalline Bloom, Damaged Mask, Teachings of Resistance, Dragon Lord's Crown
+Faruzan: Anemo, Bow, Anemo, Faded Red Satin, Henna Berry, Light Guiding Tetrahedron, Faded Red Satin, Teachings of Admonition, Puppet Strings
+Fischl: Electro, Bow, Electro, Arrowhead, Small Lamp Grass, Lightning Prism, Arrowhead, Teachings of Ballad, Spirit Locket of Boreas
+Freminet: Cryo, Claymore, Cryo, Meshing Gear, Romaritime Flower, Artificed Spare Clockwork Component, Meshing Gear, Teachings of Justice, Worldspan Fern
+Furina: Hydro, Sword, Hydro, Whopperflower Nectar, Lakelight Lily, Water That Failed To Transcend, Whopperflower Nectar, Teachings of Justice, Lightless Mass
+Gaming: Pyro, Claymore, Pyro, Slime Condensate, Starconch, Emperor's Resolution, Slime Condensate, Teachings of Prosperity, Lightless Mass
+Ganyu: Cryo, Bow, Cryo, Whopperflower Nectar, Qingxin, Hoarfrost Core, Whopperflower Nectar, Teachings of Diligence, Shadow of the Warrior
+Gorou: Geo, Bow, Geo, Spectral Husk, Sango Pearl, Perpetual Heart, Spectral Husk, Teachings of Light, Molten Moment
+Hu Tao: Pyro, Polearm, Pyro, Whopperflower Nectar, Silk Flower, Juvenile Jade, Whopperflower Nectar, Teachings of Diligence, Shard of a Foul Legacy
+Jean: Anemo, Sword, Anemo, Damaged Mask, Dandelion Seed, Hurricane Seed, Damaged Mask, Teachings of Resistance, Dvalin's Sigh
+Kachina: Geo, Polearm, Geo, Wooden Whistle, Quenepa Berry, Overripe Flamegranate, Wooden Whistle, Teachings of Conflict, Fading Candle
+Kaedehara Kazuha: Anemo, Sword, Anemo, Treasure Hoarder Insignia, Sea Ganoderma, Marionette Core, Treasure Hoarder Insignia, Teachings of Diligence, Gilded Scale
+Kaeya: Cryo, Sword, Cryo, Treasure Hoarder Insignia, Calla Lily, Hoarfrost Core, Treasure Hoarder Insignia, Teachings of Ballad, Spirit Locket of Boreas
+Kamisato Ayaka: Cryo, Sword, Cryo, Sakura Bloom, Handguard, Perpetual Heart, Sakura Bloom, Teachings of Elegance, Ring of Boreas
+Kamisato Ayato: Hydro, Sword, Hydro, Handguard, Sakura Bloom, Dew of Repudiation, Handguard, Teachings of Elegance, Mudra of the Malefic General
+Kaveh: Dendro, Claymore, Dendro, Fungal Spores, Mourning Flower, Quelled Creeper, Fungal Spores, Teachings of Ingenuity, Primordial Greenbloom
+Keqing: Electro, Sword, Electro, Whopperflower Nectar, Cor Lapis, Lightning Prism, Whopperflower Nectar, Teachings of Prosperity, Ring of Boreas
+Kirara: Dendro, Sword, Dendro, Spectral Husk, Amakumo Fruit, Evergloom Ring, Spectral Husk, Teachings of Transience, Everamber
+Kinich: Dendro, Claymore, Dendro, Juvenile Fang, Saurian Claw Succulent, Overripe Flame Granate, Juvenile Fang, Teachings of Kindling, Denial and Judgment
+Klee: Pyro, Catalyst, Pyro, Divining Scroll, Philanemo Mushroom, Everflame Seed, Divining Scroll, Teachings of Freedom, Ring of Boreas
+Kujou Sara: Electro, Bow, Electro, Damaged Mask, Dendrobium, Storm Beads, Damaged Mask, Teachings of Elegance, Ashen Heart
+Kuki Shinobu: Electro, Sword, Electro, Spectral Husk, Naku Weed, Runic Fang, Spectral Husk, Teachings of Elegance, Tears of the Calamitous God
+Layla: Cryo, Sword, Cryo, Whopperflower Nectar, Nilotpala Lotus, Perpetual Caliber, Whopperflower Nectar, Teachings of Ingenuity, Mirror of Mushin
+Lisa: Electro, Catalyst, Electro, Slime Condensate, Valberry, Lightning Prism, Slime Condensate, Teachings of Ballad, Dvalin's Claw
+Lynette: Anemo, Sword, Anemo, Meshing Gear, Lumidouce Bell, Coppelia, Meshing Gear, Teachings of Order, Everamber
+Lyney: Pyro, Bow, Pyro, Recruit's Insignia, Rainbow Rose, Emperor's Resolution, Recruit's Insignia, Teachings of Equity, Primordial Greenbloom
+Mika: Cryo, Polearm, Cryo, Meshing Gear, Wolfhook, Artificed Spare Clockwork Component, Meshing Gear, Teachings of Ballad, Mirror of Mushin
+Mona: Hydro, Catalyst, Hydro, Whopperflower Nectar, Philanemo Mushroom, Cleansing Heart, Whopperflower Nectar, Teachings of Resistance, Ring of Boreas
+Mualani: Hydro, Catalyst, Hydro, Wooden Whistle, Sprayfeather Gill, Mark of the BInding Blessing, Wooden Whistle, Teachings of Contention, Lightless Mass
+Nahida: Dendro, Catalyst, Dendro, Fungal Spores, Kalpalata Lotus, Quelled Creeper, Fungal Spores, Teachings of Ingenuity, Puppet Strings
+Navia: Geo, Claymore, Geo, Transoceanic Pearl, Spring of the First Dewdrop, Coppelius, Transoceanic Pearl, Teachings of Equity, Lightless Silk String
+Neuvillette: Hydro, Catalyst, Hydro, Transoceanic Pearl, Lumitoile, Fontemer Unihorn, Transoceanic Pearl, Teachings of Equity, Everamber
+Nilou: Hydro, Sword, Hydro, Fungal Spores, Padisarah, Perpetual Caliber, Fungal Spores, Teachings of Praxis, Tears of the Calamitous God
+Ningguang: Geo, Catalyst, Geo, Whopperflower Nectar, Glaze Lily, Basalt Pillar, Whopperflower Nectar, Teachings of Prosperity, Spirit Locket of Boreas
+Noelle: Geo, Claymore, Geo, Damaged Mask, Valberry, Basalt Pillar, Damaged Mask, Teachings of Resistance, Dvalin's Claw
+Qiqi: Cryo, Sword, Cryo, Divining Scroll, Violetgrass, Hoarfrost Core, Divining Scroll, Teachings of Prosperity, Tail of Boreas
+Raiden Shogun: Electro, Polearm, Electro, Handguard, Amakumo Fruit, Storm Beads, Handguard, Teachings of Light, Molten Moment
+Razor: Electro, Claymore, Electro, Damaged Mask, Wolfhook, Lightning Prism, Damaged Mask, Teachings of Resistance, Dvalin's Claw
+Rosaria: Cryo, Polearm, Cryo, Recruit's Insignia, Valberry, Hoarfrost Core, Recruit's Insignia, Teachings of Ballad, Shadow of the Warrior
+Sanganomiya Kokomi: Hydro, Catalyst, Hydro, Spectral Husk, Sango Pearl, Dew, of Reputation, Spectral Husk, Teachings of Transience, Helfire Butterfly
+Sayu: Anemo, Claymore, Anemo, Whopperflower Nectar, Crystal Marrow, Marionette Core, Whopperflower Nectar, Teachings of Light, Gilded Scale
+Sethos: Electro, Bow, Electro, Faded Red Satin, Trishiraite, Cloudseam Scale, Faded Red Satin, Teachings of Praxis, Daka's Bell
+Shenhe: Cryo, Polearm, Cryo, Whopperflower Nectar, Qingxin, Dragonheir’s False Fin, Whopperflower Nectar, Teachings of Prosperity, Hellfire Butterfly
+Shikanoin Heizou: Anemo, Catalyst, Anemo, Treasure Hoarder Insignia, Onikabuto, Runic Fang, Treasure Hoarder Insignia, Teachings of Transience, The Meaning of Aeons
+Sigewine: Hydro, Bow, Hydro, Transoceanic Pearl, Romaritime Flower, Water That Failed To Transcend, Transoceanic Pearl, Teachings of Equity, Lightlkess Eye of the Maelstrom
+Sucrose: Anemo, Catalyst, Anemo, Whopperflower Nectar, Windwheel Aster, Hurricane Seed, Whopperflower Nectar, Teachings of Freedom, Spirit Locket of Boreas
+Thoma: Pyro, Polearm, Pyro, Treasure Hoarder Insignia, Fluorescent Fungus, Smoldering Pearl, Treasure Hoarder Insignia, Teachings of Transience, Hellfire Butterfly
+Tighnari: Dendro, Bow, Dendro, Fungal Spores, Kalpalata Lotus, Majestic Hooked Beak, Fungal Spores, Teachings of Admonition, The Meaning of Aeons
+Venti: Anemo, Bow, Anemo, Slime Condensate, Cecilia, Hurricane Seed, Slime Condensate, Teachings of Ballad, Tail of Boreas
+Wanderer: Anemo, Catalyst, Anemo, Faded Red Satin, Rukkhashava Mushrooms, Perpetual Caliber, Faded Red Satin, Teachings of Praxis, Daka's Bell
+Wriothesley: Cryo, Catalyst, Cryo, Meshing Gear, Subdetection Unit, Tourbilon Device, Meshing Gear, Teachings of Order, Primordial Greenbloom
+Xiangling: Pyro, Polearm, Pyro, Slime Condensate, Jueyun Chili, Everflame Seed, Slime Condensate, Teachings of Diligence, Dvalin's Claw
+Xianyun: Anemo, Catalyst, Anemo, Divining Scroll, Clearwater Jade, Cloudseam Scale, Divining Scroll, Teachings of Gold, Lightless Eye of the Maelstrom
+Xiao: Anemo, Polearm, Anemo, Slime Condensate, Qingxin, Juvenile Jade, Slime Condensate, Teachings of Prosperity, Shadow of the Warrior
+Xingqiu: Hydro, Sword, Hydro, Treasure Hoarder Insignia, Silk Flower, Cleansing Heart, Treasure Hoarder Insignia, Teachings of Gold, Tail of Boreas
+Xinyan: Pyro, Claymore, Pyro, Treasure Hoarder Insignia, Violetgrass, Everflame Seed, Treasure Hoarder Insignia, Teachings of Gold, Dvalin's Claw
+Yae Miko: Electro, Catalyst, Electro, Handguard, Sea Ganoderma, Dragonheir's False Fin, Handguard, Teachings of Light, The Meaning of Aeons
+Yanfei: Pyro, Catalyst, Pyro, Treasure Hoarder Insignia, Noctilucous Jade, Everflame Seed, Treasure Hoarder Insignia, Teachings of Gold, Bloodjade Branch
+Yaoyao: Dendro, Polearm, Dendro, Slime Condensate, Jueyun Chili, Quelled Creeper, Slime Condensate, Teachings of Diligence, Daka's Bell
+Yelan: Hydro, Bow, Hydro, Thief's Insignia, Starconch, Runic Fang, Thief's Insignia, Teachings of Prosperity, Gilded Scale
+Yoimiya: Pyro, Bow, Pyro, Divining Scroll, Naku Weed, Smoldering Pearl, Divining Scroll, Teachings of Transience, Dragon Lord's Crown
+Yun Jin: Geo, Polearm, Geo, Damaged Mask, Glaze Lily, Riftborn Regalia, Damaged Mask, Teachings of Diligence, Ashen Heart
+Zhongli: Geo, Polearm, Geo, Slime Condensate, Cor Lapis, Basalt Pillar, Slime Condensate, Teachings of Gold, Tusk of Monoceros Caeli

@@ -11,6 +11,7 @@ class Character:
         self.name = name
         self.element = element
         self.weapon = weapon
+        #materials = Materials(LevelMaterials(), TalentMaterials())
         self.materials = materials
 
     def display_character_info(self):
